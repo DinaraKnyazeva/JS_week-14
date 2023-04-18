@@ -1,0 +1,30 @@
+body {
+  background: url(fon2.png) repeat center;
+  background-color: #9e9d9a;
+  background-size: cover;
+  height: 100vh;
+}
+.list-directors,
+.list-directors__list-movie {
+  width: 45%;
+  margin: 0 auto;
+}
+h1,
+h3 {
+  text-align: center;
+  color: rgb(57, 53, 53);
+}
+a {
+  margin-left: 70%;
+}
+
+span {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+}
+p {
+  font-style: italic;
+}
+.list-directors__list-movie {
+  padding: 15px 0 35px 0;
+}
